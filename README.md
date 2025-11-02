@@ -5,7 +5,10 @@
 <h1 align="center">🩺 MedAI – Health Care System</h1>
 
 <p align="center">
-  <em>AI-powered healthcare assistant for faster, smarter, and more reliable medical diagnostics created by Iniyan and Miraclin </em>
+  <em>AI-powered healthcare assistant for faster, smarter, and more reliable medical diagnostics</em>
+  <p align="center">
+  <em>Built with ❤ by <strong>Iniyan S</strong> &amp; <strong>Miraclin</strong> — advancing intelligent healthcare with MedAI.</em>
+
 </p>
 
 ---
@@ -23,10 +26,10 @@
 
 ## 🧭 Project Overview
 
-**MedAI – Health Care System** is an intelligent, AI-driven platform that analyzes medical reports, interprets X-rays, and interacts with patients through an AI chatbot — all in one place.  
+*MedAI – Health Care System* is an intelligent, AI-driven platform that analyzes medical reports, interprets X-rays, and interacts with patients through an AI chatbot — all in one place.  
 It aims to make medical assistance faster, more accurate, and more accessible to everyone.
 
-🧠 **Key Objectives:**
+🧠 *Key Objectives:*
 - Automate diagnosis and reduce manual workload  
 - Provide real-time medical insights  
 - Store and manage patient data securely  
@@ -40,12 +43,12 @@ It aims to make medical assistance faster, more accurate, and more accessible to
   <img src="https://cdn.dribbble.com/users/604781/screenshots/17033083/media/35ebf8f9a32f870dc04d773b3a64b1b1.png?compress=1&resize=1600x1200&vertical=top" alt="MedAI Workflow Diagram" width="90%">
 </p>
 
-**Workflow Steps:**
-1. **Input Stage:** Patient uploads X-rays or enters symptoms.  
-2. **AI Analysis:** The AI model processes data and predicts possible diseases.  
-3. **Report Generation:** The system creates a detailed report automatically.  
-4. **Data Storage:** All reports are securely stored in the patient database.  
-5. **Doctor Dashboard:** Doctors access insights and analytics via the dashboard.
+*Workflow Steps:*
+1. *Input Stage:* Patient uploads X-rays or enters symptoms.  
+2. *AI Analysis:* The AI model processes data and predicts possible diseases.  
+3. *Report Generation:* The system creates a detailed report automatically.  
+4. *Data Storage:* All reports are securely stored in the patient database.  
+5. *Doctor Dashboard:* Doctors access insights and analytics via the dashboard.
 
 ---
 
@@ -74,7 +77,7 @@ It aims to make medical assistance faster, more accurate, and more accessible to
 ### 📊 3. Automated Report Generation
 > Instantly creates structured medical reports from AI findings — reducing delays and errors.
 
-### 🗂️ 4. Patient Record Storage
+### 🗂 4. Patient Record Storage
 > Securely stores patient data, X-rays, and reports in an organized database.
 
 ### 🧠 5. Doctor Dashboard
